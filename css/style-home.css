@@ -1,7 +1,7 @@
 
 /* Main grid structure */
 
-.container {
+.container-home {
   display:grid;
   grid-gap: 50px;
   justify-content: space-evenly;
@@ -58,7 +58,7 @@
 /* Media Query for Desktop */
 
 @media(min-width:900px) {
-  .content-box{ display:grid;
+  .content-box-home{ display:grid;
     grid-template-columns: 50% 50%;
     margin-left: 30px;
     margin-right: 60px;
