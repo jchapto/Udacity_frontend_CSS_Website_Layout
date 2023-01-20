@@ -1,4 +1,4 @@
-# blog-project
+# Course 1: CSS & Website Layout
 
 The following are the instructions for a project for the Front End Web Developer Nanodegree of Udacity.
 
